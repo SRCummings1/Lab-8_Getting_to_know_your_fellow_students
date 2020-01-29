@@ -1,0 +1,11 @@
+C:\Users\baxte\source\repos\Lab_8_Practice\Lab_8_Practice\bin\Debug\netcoreapp3.1\Lab_8_Practice.exe
+C:\Users\baxte\source\repos\Lab_8_Practice\Lab_8_Practice\bin\Debug\netcoreapp3.1\Lab_8_Practice.deps.json
+C:\Users\baxte\source\repos\Lab_8_Practice\Lab_8_Practice\bin\Debug\netcoreapp3.1\Lab_8_Practice.runtimeconfig.json
+C:\Users\baxte\source\repos\Lab_8_Practice\Lab_8_Practice\bin\Debug\netcoreapp3.1\Lab_8_Practice.runtimeconfig.dev.json
+C:\Users\baxte\source\repos\Lab_8_Practice\Lab_8_Practice\bin\Debug\netcoreapp3.1\Lab_8_Practice.dll
+C:\Users\baxte\source\repos\Lab_8_Practice\Lab_8_Practice\bin\Debug\netcoreapp3.1\Lab_8_Practice.pdb
+C:\Users\baxte\source\repos\Lab_8_Practice\Lab_8_Practice\obj\Debug\netcoreapp3.1\Lab_8_Practice.csprojAssemblyReference.cache
+C:\Users\baxte\source\repos\Lab_8_Practice\Lab_8_Practice\obj\Debug\netcoreapp3.1\Lab_8_Practice.AssemblyInfoInputs.cache
+C:\Users\baxte\source\repos\Lab_8_Practice\Lab_8_Practice\obj\Debug\netcoreapp3.1\Lab_8_Practice.AssemblyInfo.cs
+C:\Users\baxte\source\repos\Lab_8_Practice\Lab_8_Practice\obj\Debug\netcoreapp3.1\Lab_8_Practice.dll
+C:\Users\baxte\source\repos\Lab_8_Practice\Lab_8_Practice\obj\Debug\netcoreapp3.1\Lab_8_Practice.pdb
